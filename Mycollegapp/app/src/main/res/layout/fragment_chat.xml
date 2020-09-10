@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChatFragment"
+    android:background="#F3A0BA">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="In Rgukt there is 2 years of preUniversity course.\n    After comple
+tion of PUC students can choose any one of the following branch\n              1.CSE\n              2.ECE\n
+             3.MECHANICL\n              4.CIVIL\n              5.CHEMICAL\n              6.MME"
+        android:textSize="25sp"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"/>
+
+
+</FrameLayout>
