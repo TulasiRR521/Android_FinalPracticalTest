@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reg_S160712</string>
+    <string-array name="branch">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>MME</item>
+        <item>CHEMICAL</item>
+    </string-array>
+</resources>
